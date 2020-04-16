@@ -1,3 +1,5 @@
 theme: jekyll-theme-midnight
 title: Welcome to Shadow Lord's homepage!
 description: Bookmark this to keep up with my projects!
+- name: Deploy to GitHub Pages - Python
+  uses: JacksonMaxfield/github-pages-deploy-action-python@2.1.0
